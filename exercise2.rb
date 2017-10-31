@@ -1,5 +1,7 @@
 
-cost = 55.0
+# cost = 55.0
+#
+# discount = (cost * 0.18)
+# puts discount
 
-discount = (cost * 0.18) 
-puts discount
+puts "string of words #{55}"
