@@ -11,6 +11,3 @@ end
 
 
 
-# secret_number = 17
-
-#  # "enter secret number"
