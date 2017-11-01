@@ -4,4 +4,3 @@ if age < 105
 else 
 	puts "im not sure i believe you"
 end
-	
